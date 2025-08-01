@@ -2,6 +2,7 @@ package database
 
 import (
 	"database/sql"
+	"fmt"
 	"testing"
 
 	"github.com/devfullcycle/20-CleanArch/internal/entity"
@@ -48,4 +49,24 @@ func (suite *OrderRepositoryTestSuite) TestGivenAnOrder_WhenSave_ThenShouldSaveO
 	suite.Equal(order.Price, orderResult.Price)
 	suite.Equal(order.Tax, orderResult.Tax)
 	suite.Equal(order.FinalPrice, orderResult.FinalPrice)
+}
+
+func (suite *OrderRepositoryTestSuite) TestGivenOrders_WhenList_ThenShouldReturnPaginatedOrders() {
+	repo := NewOrderRepository(suite.Db)
+	// Inserir 15 pedidos
+	for i := 1; i <= 15; i++ {
+		order, err := entity.NewOrder(fmt.Sprintf("%d", i), float64(i*10), float64(i))
+		suite.NoError(err)
+		suite.NoError(order.CalculateFinalPrice())
+		err = repo.Save(order)
+		suite.NoError(err)
+	}
+
+	ordersPage1, err := repo.List(1)
+	suite.NoError(err)
+	suite.Len(ordersPage1, 10)
+
+	ordersPage2, err := repo.List(2)
+	suite.NoError(err)
+	suite.Len(ordersPage2, 5)
 }

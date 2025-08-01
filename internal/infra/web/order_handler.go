@@ -2,6 +2,7 @@ package web
 
 import (
 	"encoding/json"
+	"fmt"
 	"net/http"
 
 	"github.com/devfullcycle/20-CleanArch/internal/entity"
@@ -46,4 +47,19 @@ func (h *WebOrderHandler) Create(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		return
 	}
+}
+
+func (h *WebOrderHandler) List(w http.ResponseWriter, r *http.Request) {
+	page := 1
+	if p := r.URL.Query().Get("page"); p != "" {
+		fmt.Sscanf(p, "%d", &page)
+	}
+	listOrders := usecase.NewListOrdersUseCase(h.OrderRepository)
+	output, err := listOrders.Execute(usecase.ListOrdersInputDTO{Page: page})
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+	w.Header().Set("Content-Type", "application/json")
+	json.NewEncoder(w).Encode(output)
 }
