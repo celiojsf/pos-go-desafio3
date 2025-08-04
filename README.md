@@ -2,20 +2,15 @@
 
 Este projeto implementa um sistema de pedidos com três interfaces: HTTP, GraphQL e gRPC.
 
-## Como executar
+## Como executar tudo com Docker
 
-1. **Suba os containers do Docker:**
+1. **Build e subida dos containers (incluindo aplicação Go):**
    ```sh
-   docker-compose up -d
+   docker-compose up --build -d
    ```
-   Isso irá criar o banco de dados MySQL e a tabela `order` automaticamente.
+   Isso irá subir MySQL, RabbitMQ, rodar as migrações e iniciar a aplicação Go (`ordersystem`).
 
-2. **Inicie o servidor Go:**
-   ```sh
-   go mod tidy
-   cd cmd/ordersystem
-   go run main.go wire_gen.go
-   ```
+2. **A aplicação Go estará disponível na porta 8080.**
 
 ## Endpoints disponíveis
 

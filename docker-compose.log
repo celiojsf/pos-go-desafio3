@@ -1,0 +1,627 @@
+time="2025-08-04T18:28:07-03:00" level=warning msg="/Users/celiojosedossantosfilho/Documents/code/pos-go-desafio3/docker-compose.yaml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ rabbitmq Pulling 
+ 54032eec97af Pulling fs layer 
+ 2dc65ad5d096 Pulling fs layer 
+ 948f09e51ae1 Pulling fs layer 
+ e3bd89a9dac5 Pulling fs layer 
+ 9baa58aff044 Pulling fs layer 
+ c996eef12c6b Pulling fs layer 
+ 80c8aad62284 Pulling fs layer 
+ 010fac582584 Pulling fs layer 
+ a94ef0a9c0d7 Pulling fs layer 
+ 4416c359bbfe Pulling fs layer 
+ 4416c359bbfe Download complete 
+ 54032eec97af Downloading  1.049MB/12.33MB
+ 9baa58aff044 Downloading     109B/109B
+ 54032eec97af Downloading  1.049MB/12.33MB
+ 948f09e51ae1 Download complete 
+ 9baa58aff044 Download complete 
+ 80c8aad62284 Download complete 
+ a94ef0a9c0d7 Download complete 
+ 54032eec97af Downloading  1.049MB/12.33MB
+ 54032eec97af Downloading  2.097MB/12.33MB
+ 54032eec97af Downloading  2.097MB/12.33MB
+ c996eef12c6b Downloading  1.049MB/41.51MB
+ 54032eec97af Downloading  2.097MB/12.33MB
+ c996eef12c6b Downloading  1.049MB/41.51MB
+ 010fac582584 Downloading  1.049MB/7.148MB
+ c996eef12c6b Downloading  1.049MB/41.51MB
+ 010fac582584 Downloading  1.049MB/7.148MB
+ e3bd89a9dac5 Downloading  1.049MB/28.86MB
+ 54032eec97af Downloading  2.097MB/12.33MB
+ 54032eec97af Downloading  2.097MB/12.33MB
+ 010fac582584 Downloading  1.049MB/7.148MB
+ e3bd89a9dac5 Downloading  1.049MB/28.86MB
+ c996eef12c6b Downloading  1.049MB/41.51MB
+ c996eef12c6b Downloading  1.049MB/41.51MB
+ 010fac582584 Downloading  1.049MB/7.148MB
+ 2dc65ad5d096 Downloading  1.049MB/21.22MB
+ e3bd89a9dac5 Downloading  1.049MB/28.86MB
+ 54032eec97af Downloading  3.146MB/12.33MB
+ e3bd89a9dac5 Downloading  1.049MB/28.86MB
+ c996eef12c6b Downloading  1.049MB/41.51MB
+ 010fac582584 Downloading  1.049MB/7.148MB
+ 2dc65ad5d096 Downloading  1.049MB/21.22MB
+ 54032eec97af Downloading  3.146MB/12.33MB
+ e3bd89a9dac5 Downloading  1.049MB/28.86MB
+ c996eef12c6b Downloading  2.097MB/41.51MB
+ 010fac582584 Downloading  2.097MB/7.148MB
+ 2dc65ad5d096 Downloading  1.049MB/21.22MB
+ 54032eec97af Downloading  3.146MB/12.33MB
+ 54032eec97af Downloading  3.146MB/12.33MB
+ c996eef12c6b Downloading  2.097MB/41.51MB
+ 010fac582584 Downloading  2.097MB/7.148MB
+ 2dc65ad5d096 Downloading  1.049MB/21.22MB
+ e3bd89a9dac5 Downloading  1.049MB/28.86MB
+ 54032eec97af Downloading  4.194MB/12.33MB
+ 2dc65ad5d096 Downloading  1.049MB/21.22MB
+ e3bd89a9dac5 Downloading  1.049MB/28.86MB
+ c996eef12c6b Downloading  2.097MB/41.51MB
+ 010fac582584 Downloading  2.097MB/7.148MB
+ 010fac582584 Downloading  2.097MB/7.148MB
+ 2dc65ad5d096 Downloading  2.097MB/21.22MB
+ e3bd89a9dac5 Downloading  2.097MB/28.86MB
+ c996eef12c6b Downloading  2.097MB/41.51MB
+ 54032eec97af Downloading  4.194MB/12.33MB
+ c996eef12c6b Downloading  2.097MB/41.51MB
+ 010fac582584 Downloading  2.097MB/7.148MB
+ 2dc65ad5d096 Downloading  2.097MB/21.22MB
+ e3bd89a9dac5 Downloading  2.097MB/28.86MB
+ 54032eec97af Downloading  4.194MB/12.33MB
+ 010fac582584 Downloading  3.146MB/7.148MB
+ 2dc65ad5d096 Downloading  2.097MB/21.22MB
+ e3bd89a9dac5 Downloading  2.097MB/28.86MB
+ c996eef12c6b Downloading  3.146MB/41.51MB
+ 54032eec97af Downloading  4.194MB/12.33MB
+ 2dc65ad5d096 Downloading  2.097MB/21.22MB
+ e3bd89a9dac5 Downloading  2.097MB/28.86MB
+ c996eef12c6b Downloading  3.146MB/41.51MB
+ 010fac582584 Downloading  3.146MB/7.148MB
+ 54032eec97af Downloading  4.194MB/12.33MB
+ 2dc65ad5d096 Downloading  2.097MB/21.22MB
+ e3bd89a9dac5 Downloading  2.097MB/28.86MB
+ c996eef12c6b Downloading  3.146MB/41.51MB
+ 010fac582584 Downloading  3.146MB/7.148MB
+ 54032eec97af Downloading  4.194MB/12.33MB
+ 54032eec97af Downloading  5.243MB/12.33MB
+ 2dc65ad5d096 Downloading  2.097MB/21.22MB
+ e3bd89a9dac5 Downloading  3.146MB/28.86MB
+ c996eef12c6b Downloading  4.194MB/41.51MB
+ 010fac582584 Downloading  3.146MB/7.148MB
+ 54032eec97af Downloading  5.243MB/12.33MB
+ 2dc65ad5d096 Downloading  2.097MB/21.22MB
+ e3bd89a9dac5 Downloading  3.146MB/28.86MB
+ c996eef12c6b Downloading  4.194MB/41.51MB
+ 010fac582584 Downloading  4.194MB/7.148MB
+ 2dc65ad5d096 Downloading  3.146MB/21.22MB
+ e3bd89a9dac5 Downloading  3.146MB/28.86MB
+ c996eef12c6b Downloading  4.194MB/41.51MB
+ 010fac582584 Downloading  4.194MB/7.148MB
+ 54032eec97af Downloading  5.243MB/12.33MB
+ 2dc65ad5d096 Downloading  3.146MB/21.22MB
+ e3bd89a9dac5 Downloading  3.146MB/28.86MB
+ c996eef12c6b Downloading  5.243MB/41.51MB
+ 010fac582584 Downloading  4.194MB/7.148MB
+ 54032eec97af Downloading  5.243MB/12.33MB
+ 2dc65ad5d096 Downloading  3.146MB/21.22MB
+ e3bd89a9dac5 Downloading  3.146MB/28.86MB
+ c996eef12c6b Downloading  5.243MB/41.51MB
+ 010fac582584 Downloading  4.194MB/7.148MB
+ 54032eec97af Downloading  5.243MB/12.33MB
+ 54032eec97af Downloading  6.291MB/12.33MB
+ e3bd89a9dac5 Downloading  3.146MB/28.86MB
+ c996eef12c6b Downloading  5.243MB/41.51MB
+ 010fac582584 Downloading  5.243MB/7.148MB
+ 2dc65ad5d096 Downloading  3.146MB/21.22MB
+ 2dc65ad5d096 Downloading  3.146MB/21.22MB
+ e3bd89a9dac5 Downloading  4.194MB/28.86MB
+ c996eef12c6b Downloading  5.243MB/41.51MB
+ 010fac582584 Downloading  5.243MB/7.148MB
+ 54032eec97af Downloading  6.291MB/12.33MB
+ 54032eec97af Downloading  6.291MB/12.33MB
+ 2dc65ad5d096 Downloading  3.146MB/21.22MB
+ e3bd89a9dac5 Downloading  4.194MB/28.86MB
+ c996eef12c6b Downloading  6.291MB/41.51MB
+ 010fac582584 Downloading  5.243MB/7.148MB
+ 2dc65ad5d096 Downloading  4.194MB/21.22MB
+ e3bd89a9dac5 Downloading  4.194MB/28.86MB
+ c996eef12c6b Downloading  6.291MB/41.51MB
+ 010fac582584 Downloading  5.243MB/7.148MB
+ 54032eec97af Downloading  6.291MB/12.33MB
+ 54032eec97af Downloading  6.291MB/12.33MB
+ c996eef12c6b Downloading  6.291MB/41.51MB
+ 010fac582584 Downloading  5.243MB/7.148MB
+ 2dc65ad5d096 Downloading  4.194MB/21.22MB
+ e3bd89a9dac5 Downloading  4.194MB/28.86MB
+ 54032eec97af Downloading   7.34MB/12.33MB
+ e3bd89a9dac5 Downloading  4.194MB/28.86MB
+ c996eef12c6b Downloading  6.291MB/41.51MB
+ 010fac582584 Downloading  6.291MB/7.148MB
+ 2dc65ad5d096 Downloading  4.194MB/21.22MB
+ 54032eec97af Downloading   7.34MB/12.33MB
+ 2dc65ad5d096 Downloading  4.194MB/21.22MB
+ e3bd89a9dac5 Downloading  4.194MB/28.86MB
+ c996eef12c6b Downloading  6.291MB/41.51MB
+ 010fac582584 Downloading  6.291MB/7.148MB
+ 54032eec97af Downloading   7.34MB/12.33MB
+ 2dc65ad5d096 Downloading  4.194MB/21.22MB
+ e3bd89a9dac5 Downloading  5.243MB/28.86MB
+ c996eef12c6b Downloading   7.34MB/41.51MB
+ 010fac582584 Downloading  6.291MB/7.148MB
+ 2dc65ad5d096 Downloading  4.194MB/21.22MB
+ e3bd89a9dac5 Downloading  5.243MB/28.86MB
+ c996eef12c6b Downloading   7.34MB/41.51MB
+ 010fac582584 Downloading  6.291MB/7.148MB
+ 54032eec97af Downloading   7.34MB/12.33MB
+ 54032eec97af Downloading   7.34MB/12.33MB
+ 2dc65ad5d096 Downloading  4.194MB/21.22MB
+ e3bd89a9dac5 Downloading  5.243MB/28.86MB
+ c996eef12c6b Downloading   7.34MB/41.51MB
+ 010fac582584 Downloading  6.291MB/7.148MB
+ 54032eec97af Downloading  8.389MB/12.33MB
+ 010fac582584 Download complete 
+ 2dc65ad5d096 Downloading  5.243MB/21.22MB
+ e3bd89a9dac5 Downloading  5.243MB/28.86MB
+ c996eef12c6b Downloading   7.34MB/41.51MB
+ 2dc65ad5d096 Downloading  5.243MB/21.22MB
+ e3bd89a9dac5 Downloading  5.243MB/28.86MB
+ c996eef12c6b Downloading  8.389MB/41.51MB
+ 54032eec97af Downloading  8.389MB/12.33MB
+ 54032eec97af Downloading  8.389MB/12.33MB
+ 2dc65ad5d096 Downloading  5.243MB/21.22MB
+ e3bd89a9dac5 Downloading  5.243MB/28.86MB
+ c996eef12c6b Downloading  8.389MB/41.51MB
+ 2dc65ad5d096 Downloading  5.243MB/21.22MB
+ e3bd89a9dac5 Downloading  6.291MB/28.86MB
+ c996eef12c6b Downloading  8.389MB/41.51MB
+ 54032eec97af Downloading  8.389MB/12.33MB
+ 54032eec97af Downloading  8.389MB/12.33MB
+ 2dc65ad5d096 Downloading  5.243MB/21.22MB
+ e3bd89a9dac5 Downloading  6.291MB/28.86MB
+ c996eef12c6b Downloading  8.389MB/41.51MB
+ 54032eec97af Downloading  9.437MB/12.33MB
+ e3bd89a9dac5 Downloading  6.291MB/28.86MB
+ c996eef12c6b Downloading  9.437MB/41.51MB
+ 2dc65ad5d096 Downloading  6.291MB/21.22MB
+ 54032eec97af Downloading  9.437MB/12.33MB
+ 2dc65ad5d096 Downloading  6.291MB/21.22MB
+ e3bd89a9dac5 Downloading  6.291MB/28.86MB
+ c996eef12c6b Downloading  9.437MB/41.51MB
+ e3bd89a9dac5 Downloading   7.34MB/28.86MB
+ c996eef12c6b Downloading  9.437MB/41.51MB
+ 2dc65ad5d096 Downloading  6.291MB/21.22MB
+ 54032eec97af Downloading  9.437MB/12.33MB
+ 54032eec97af Downloading  9.437MB/12.33MB
+ 2dc65ad5d096 Downloading  6.291MB/21.22MB
+ e3bd89a9dac5 Downloading   7.34MB/28.86MB
+ c996eef12c6b Downloading  9.437MB/41.51MB
+ 2dc65ad5d096 Downloading  6.291MB/21.22MB
+ e3bd89a9dac5 Downloading   7.34MB/28.86MB
+ c996eef12c6b Downloading  10.49MB/41.51MB
+ 54032eec97af Downloading  9.437MB/12.33MB
+ 54032eec97af Downloading  10.49MB/12.33MB
+ 2dc65ad5d096 Downloading   7.34MB/21.22MB
+ e3bd89a9dac5 Downloading   7.34MB/28.86MB
+ c996eef12c6b Downloading  10.49MB/41.51MB
+ 2dc65ad5d096 Downloading   7.34MB/21.22MB
+ e3bd89a9dac5 Downloading   7.34MB/28.86MB
+ c996eef12c6b Downloading  10.49MB/41.51MB
+ 54032eec97af Downloading  10.49MB/12.33MB
+ 54032eec97af Downloading  10.49MB/12.33MB
+ 2dc65ad5d096 Downloading   7.34MB/21.22MB
+ e3bd89a9dac5 Downloading  8.389MB/28.86MB
+ c996eef12c6b Downloading  10.49MB/41.51MB
+ e3bd89a9dac5 Downloading  8.389MB/28.86MB
+ c996eef12c6b Downloading  11.53MB/41.51MB
+ 2dc65ad5d096 Downloading   7.34MB/21.22MB
+ 54032eec97af Downloading  10.49MB/12.33MB
+ 54032eec97af Downloading  11.53MB/12.33MB
+ c996eef12c6b Downloading  11.53MB/41.51MB
+ 2dc65ad5d096 Downloading   7.34MB/21.22MB
+ e3bd89a9dac5 Downloading  8.389MB/28.86MB
+ 2dc65ad5d096 Downloading  8.389MB/21.22MB
+ e3bd89a9dac5 Downloading  8.389MB/28.86MB
+ c996eef12c6b Downloading  11.53MB/41.51MB
+ 54032eec97af Downloading  11.53MB/12.33MB
+ 54032eec97af Downloading  11.53MB/12.33MB
+ 2dc65ad5d096 Downloading  8.389MB/21.22MB
+ e3bd89a9dac5 Downloading  9.437MB/28.86MB
+ c996eef12c6b Downloading  11.53MB/41.51MB
+ 54032eec97af Downloading  11.53MB/12.33MB
+ 2dc65ad5d096 Downloading  8.389MB/21.22MB
+ e3bd89a9dac5 Downloading  9.437MB/28.86MB
+ c996eef12c6b Downloading  12.58MB/41.51MB
+ 54032eec97af Download complete 
+ c996eef12c6b Downloading  12.58MB/41.51MB
+ 2dc65ad5d096 Downloading  8.389MB/21.22MB
+ e3bd89a9dac5 Downloading  9.437MB/28.86MB
+ 2dc65ad5d096 Downloading  8.389MB/21.22MB
+ e3bd89a9dac5 Downloading  9.437MB/28.86MB
+ c996eef12c6b Downloading  12.58MB/41.51MB
+ e3bd89a9dac5 Downloading  10.49MB/28.86MB
+ c996eef12c6b Downloading  12.58MB/41.51MB
+ 2dc65ad5d096 Downloading  9.437MB/21.22MB
+ 2dc65ad5d096 Downloading  9.437MB/21.22MB
+ e3bd89a9dac5 Downloading  10.49MB/28.86MB
+ c996eef12c6b Downloading  13.63MB/41.51MB
+ 2dc65ad5d096 Downloading  9.437MB/21.22MB
+ e3bd89a9dac5 Downloading  10.49MB/28.86MB
+ c996eef12c6b Downloading  13.63MB/41.51MB
+ c996eef12c6b Downloading  13.63MB/41.51MB
+ 2dc65ad5d096 Downloading  9.437MB/21.22MB
+ e3bd89a9dac5 Downloading  10.49MB/28.86MB
+ 2dc65ad5d096 Downloading  9.437MB/21.22MB
+ e3bd89a9dac5 Downloading  11.53MB/28.86MB
+ c996eef12c6b Downloading  13.63MB/41.51MB
+ 2dc65ad5d096 Downloading  10.49MB/21.22MB
+ e3bd89a9dac5 Downloading  11.53MB/28.86MB
+ c996eef12c6b Downloading  13.63MB/41.51MB
+ 2dc65ad5d096 Downloading  10.49MB/21.22MB
+ e3bd89a9dac5 Downloading  11.53MB/28.86MB
+ c996eef12c6b Downloading  14.68MB/41.51MB
+ 2dc65ad5d096 Downloading  10.49MB/21.22MB
+ e3bd89a9dac5 Downloading  13.63MB/28.86MB
+ c996eef12c6b Downloading  14.68MB/41.51MB
+ c996eef12c6b Downloading  14.68MB/41.51MB
+ 2dc65ad5d096 Downloading  10.49MB/21.22MB
+ e3bd89a9dac5 Downloading  13.63MB/28.86MB
+ e3bd89a9dac5 Downloading  13.63MB/28.86MB
+ c996eef12c6b Downloading  14.68MB/41.51MB
+ 2dc65ad5d096 Downloading  10.49MB/21.22MB
+ 2dc65ad5d096 Downloading  10.49MB/21.22MB
+ e3bd89a9dac5 Downloading  14.68MB/28.86MB
+ c996eef12c6b Downloading  14.68MB/41.51MB
+ 2dc65ad5d096 Downloading  11.53MB/21.22MB
+ e3bd89a9dac5 Downloading  14.68MB/28.86MB
+ c996eef12c6b Downloading  14.68MB/41.51MB
+ 2dc65ad5d096 Downloading  11.53MB/21.22MB
+ e3bd89a9dac5 Downloading  15.73MB/28.86MB
+ c996eef12c6b Downloading  14.68MB/41.51MB
+ 2dc65ad5d096 Downloading  11.53MB/21.22MB
+ e3bd89a9dac5 Downloading  15.73MB/28.86MB
+ c996eef12c6b Downloading  15.73MB/41.51MB
+ 2dc65ad5d096 Downloading  11.53MB/21.22MB
+ e3bd89a9dac5 Downloading  16.78MB/28.86MB
+ c996eef12c6b Downloading  15.73MB/41.51MB
+ e3bd89a9dac5 Downloading  16.78MB/28.86MB
+ c996eef12c6b Downloading  15.73MB/41.51MB
+ 2dc65ad5d096 Downloading  12.58MB/21.22MB
+ 2dc65ad5d096 Downloading  12.58MB/21.22MB
+ e3bd89a9dac5 Downloading  16.78MB/28.86MB
+ c996eef12c6b Downloading  15.73MB/41.51MB
+ c996eef12c6b Downloading  15.73MB/41.51MB
+ 2dc65ad5d096 Downloading  12.58MB/21.22MB
+ e3bd89a9dac5 Downloading  17.83MB/28.86MB
+ c996eef12c6b Downloading  15.73MB/41.51MB
+ 2dc65ad5d096 Downloading  12.58MB/21.22MB
+ e3bd89a9dac5 Downloading  18.87MB/28.86MB
+ 2dc65ad5d096 Downloading  13.63MB/21.22MB
+ e3bd89a9dac5 Downloading  18.87MB/28.86MB
+ c996eef12c6b Downloading  16.78MB/41.51MB
+ 2dc65ad5d096 Downloading  13.63MB/21.22MB
+ e3bd89a9dac5 Downloading  18.87MB/28.86MB
+ c996eef12c6b Downloading  16.78MB/41.51MB
+ 2dc65ad5d096 Downloading  13.63MB/21.22MB
+ e3bd89a9dac5 Downloading  19.92MB/28.86MB
+ c996eef12c6b Downloading  16.78MB/41.51MB
+ c996eef12c6b Downloading  16.78MB/41.51MB
+ 2dc65ad5d096 Downloading  14.68MB/21.22MB
+ e3bd89a9dac5 Downloading  20.97MB/28.86MB
+ c996eef12c6b Downloading  17.83MB/41.51MB
+ 2dc65ad5d096 Downloading  14.68MB/21.22MB
+ e3bd89a9dac5 Downloading  20.97MB/28.86MB
+ e3bd89a9dac5 Downloading  20.97MB/28.86MB
+ c996eef12c6b Downloading  17.83MB/41.51MB
+ 2dc65ad5d096 Downloading  14.68MB/21.22MB
+ 2dc65ad5d096 Downloading  14.68MB/21.22MB
+ e3bd89a9dac5 Downloading  22.02MB/28.86MB
+ c996eef12c6b Downloading  17.83MB/41.51MB
+ 2dc65ad5d096 Downloading  15.73MB/21.22MB
+ e3bd89a9dac5 Downloading  22.02MB/28.86MB
+ c996eef12c6b Downloading  18.87MB/41.51MB
+ 2dc65ad5d096 Downloading  15.73MB/21.22MB
+ e3bd89a9dac5 Downloading  23.07MB/28.86MB
+ c996eef12c6b Downloading  18.87MB/41.51MB
+ 2dc65ad5d096 Downloading  15.73MB/21.22MB
+ e3bd89a9dac5 Downloading  23.07MB/28.86MB
+ c996eef12c6b Downloading  18.87MB/41.51MB
+ 2dc65ad5d096 Downloading  16.78MB/21.22MB
+ e3bd89a9dac5 Downloading  23.07MB/28.86MB
+ c996eef12c6b Downloading  18.87MB/41.51MB
+ 2dc65ad5d096 Downloading  16.78MB/21.22MB
+ e3bd89a9dac5 Downloading  23.07MB/28.86MB
+ c996eef12c6b Downloading  18.87MB/41.51MB
+ 2dc65ad5d096 Downloading  16.78MB/21.22MB
+ e3bd89a9dac5 Downloading  24.12MB/28.86MB
+ c996eef12c6b Downloading  19.92MB/41.51MB
+ 2dc65ad5d096 Downloading  16.78MB/21.22MB
+ e3bd89a9dac5 Downloading  24.12MB/28.86MB
+ c996eef12c6b Downloading  19.92MB/41.51MB
+ 2dc65ad5d096 Downloading  17.83MB/21.22MB
+ e3bd89a9dac5 Downloading  25.17MB/28.86MB
+ c996eef12c6b Downloading  19.92MB/41.51MB
+ 2dc65ad5d096 Downloading  17.83MB/21.22MB
+ e3bd89a9dac5 Downloading  25.17MB/28.86MB
+ c996eef12c6b Downloading  19.92MB/41.51MB
+ c996eef12c6b Downloading  20.97MB/41.51MB
+ 2dc65ad5d096 Downloading  17.83MB/21.22MB
+ e3bd89a9dac5 Downloading  26.21MB/28.86MB
+ 2dc65ad5d096 Downloading  18.87MB/21.22MB
+ e3bd89a9dac5 Downloading  27.26MB/28.86MB
+ c996eef12c6b Downloading  20.97MB/41.51MB
+ 2dc65ad5d096 Downloading  18.87MB/21.22MB
+ e3bd89a9dac5 Downloading  27.26MB/28.86MB
+ c996eef12c6b Downloading  20.97MB/41.51MB
+ 2dc65ad5d096 Downloading  19.92MB/21.22MB
+ e3bd89a9dac5 Downloading  28.31MB/28.86MB
+ c996eef12c6b Downloading  20.97MB/41.51MB
+ 2dc65ad5d096 Downloading  19.92MB/21.22MB
+ e3bd89a9dac5 Downloading  28.31MB/28.86MB
+ c996eef12c6b Downloading  20.97MB/41.51MB
+ 2dc65ad5d096 Download complete 
+ e3bd89a9dac5 Download complete 
+ c996eef12c6b Downloading  22.02MB/41.51MB
+ e3bd89a9dac5 Extracting 1 s
+ c996eef12c6b Downloading  22.02MB/41.51MB
+ e3bd89a9dac5 Extracting 1 s
+ c996eef12c6b Downloading  23.07MB/41.51MB
+ e3bd89a9dac5 Extracting 1 s
+ c996eef12c6b Downloading  23.07MB/41.51MB
+ e3bd89a9dac5 Extracting 1 s
+ c996eef12c6b Downloading  24.12MB/41.51MB
+ e3bd89a9dac5 Pull complete 
+ c996eef12c6b Downloading  24.12MB/41.51MB
+ c996eef12c6b Downloading  24.12MB/41.51MB
+ c996eef12c6b Downloading  24.12MB/41.51MB
+ c996eef12c6b Downloading  25.17MB/41.51MB
+ c996eef12c6b Downloading  25.17MB/41.51MB
+ c996eef12c6b Downloading  26.21MB/41.51MB
+ c996eef12c6b Downloading  27.26MB/41.51MB
+ c996eef12c6b Downloading  27.26MB/41.51MB
+ c996eef12c6b Downloading  28.31MB/41.51MB
+ c996eef12c6b Downloading  29.36MB/41.51MB
+ c996eef12c6b Downloading  30.41MB/41.51MB
+ c996eef12c6b Downloading  30.41MB/41.51MB
+ c996eef12c6b Downloading  31.46MB/41.51MB
+ c996eef12c6b Downloading  31.46MB/41.51MB
+ c996eef12c6b Downloading  32.51MB/41.51MB
+ c996eef12c6b Downloading  33.55MB/41.51MB
+ c996eef12c6b Downloading   34.6MB/41.51MB
+ c996eef12c6b Downloading  35.65MB/41.51MB
+ c996eef12c6b Downloading  35.65MB/41.51MB
+ c996eef12c6b Downloading   36.7MB/41.51MB
+ c996eef12c6b Downloading  37.75MB/41.51MB
+ c996eef12c6b Downloading   38.8MB/41.51MB
+ c996eef12c6b Downloading  39.85MB/41.51MB
+ c996eef12c6b Downloading  40.89MB/41.51MB
+ c996eef12c6b Download complete 
+ c996eef12c6b Extracting 1 s
+ c996eef12c6b Extracting 1 s
+ c996eef12c6b Extracting 1 s
+ 010fac582584 Extracting 1 s
+ c996eef12c6b Pull complete 
+ 4416c359bbfe Pull complete 
+ 010fac582584 Pull complete 
+ 2dc65ad5d096 Extracting 1 s
+ 2dc65ad5d096 Extracting 1 s
+ 948f09e51ae1 Pull complete 
+ 9baa58aff044 Pull complete 
+ 80c8aad62284 Pull complete 
+ a94ef0a9c0d7 Pull complete 
+ 54032eec97af Extracting 1 s
+ 2dc65ad5d096 Pull complete 
+ 54032eec97af Pull complete 
+ rabbitmq Pulled 
+ Network pos-go-desafio3_default  Creating
+ Network pos-go-desafio3_default  Created
+ Container rabbitmq  Creating
+ Container rabbitmq  Created
+Attaching to rabbitmq
+rabbitmq  | 2025-08-04 21:28:27.034939+00:00 [notice] <0.44.0> Application syslog exited with reason: stopped
+rabbitmq  | 2025-08-04 21:28:27.039310+00:00 [notice] <0.254.0> Logging: switching to configured handler(s); following messages may not be visible in this log output
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.039609+00:00 [notice] <0.254.0> Logging: configured log handlers are now ACTIVE[0m
+rabbitmq  | 2025-08-04 21:28:27.045460+00:00 [info] <0.254.0> ra: starting system quorum_queues[0m
+rabbitmq  | 2025-08-04 21:28:27.045493+00:00 [info] <0.254.0> starting Ra system: quorum_queues in directory: /var/lib/rabbitmq/mnesia/rabbit@c1dd1fca2717/quorum/rabbit@c1dd1fca2717[0m
+rabbitmq  | 2025-08-04 21:28:27.084041+00:00 [info] <0.268.0> ra system 'quorum_queues' running pre init for 0 registered servers[0m
+rabbitmq  | 2025-08-04 21:28:27.090619+00:00 [info] <0.269.0> ra: meta data store initialised for system quorum_queues. 0 record(s) recovered[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.099476+00:00 [notice] <0.274.0> WAL: ra_log_wal init, open tbls: ra_log_open_mem_tables, closed tbls: ra_log_closed_mem_tables[0m
+rabbitmq  | 2025-08-04 21:28:27.106771+00:00 [info] <0.254.0> ra: starting system coordination[0m
+rabbitmq  | 2025-08-04 21:28:27.106790+00:00 [info] <0.254.0> starting Ra system: coordination in directory: /var/lib/rabbitmq/mnesia/rabbit@c1dd1fca2717/coordination/rabbit@c1dd1fca2717[0m
+rabbitmq  | 2025-08-04 21:28:27.107416+00:00 [info] <0.282.0> ra system 'coordination' running pre init for 0 registered servers[0m
+rabbitmq  | 2025-08-04 21:28:27.107780+00:00 [info] <0.283.0> ra: meta data store initialised for system coordination. 0 record(s) recovered[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.107854+00:00 [notice] <0.288.0> WAL: ra_coordination_log_wal init, open tbls: ra_coordination_log_open_mem_tables, closed tbls: ra_coordination_log_closed_mem_tables[0m
+rabbitmq  | 2025-08-04 21:28:27.108904+00:00 [info] <0.254.0> ra: starting system coordination[0m
+rabbitmq  | 2025-08-04 21:28:27.108917+00:00 [info] <0.254.0> starting Ra system: coordination in directory: /var/lib/rabbitmq/mnesia/rabbit@c1dd1fca2717/coordination/rabbit@c1dd1fca2717[0m
+rabbitmq  | 2025-08-04 21:28:27.156345+00:00 [info] <0.254.0> Waiting for Khepri leader for 30000 ms, 9 retries left[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.158140+00:00 [notice] <0.292.0> RabbitMQ metadata store: candidate -> leader in term: 1 machine version: 1[0m
+rabbitmq  | 2025-08-04 21:28:27.163368+00:00 [info] <0.254.0> Khepri leader elected[0m
+rabbitmq  | 2025-08-04 21:28:27.163387+00:00 [info] <0.254.0> Waiting for Khepri projections for 30000 ms, 9 retries left[0m
+rabbitmq  | 2025-08-04 21:28:27.310727+00:00 [info] <0.254.0> [0m
+rabbitmq  | 2025-08-04 21:28:27.310727+00:00 [info] <0.254.0>  Starting RabbitMQ 3.13.7 on Erlang 26.2.5.14 [jit][0m
+rabbitmq  | 2025-08-04 21:28:27.310727+00:00 [info] <0.254.0>  Copyright (c) 2007-2024 Broadcom Inc and/or its subsidiaries[0m
+rabbitmq  | 2025-08-04 21:28:27.310727+00:00 [info] <0.254.0>  Licensed under the MPL 2.0. Website: https://rabbitmq.com[0m
+rabbitmq  | 
+rabbitmq  |   ##  ##      RabbitMQ 3.13.7
+rabbitmq  |   ##  ##
+rabbitmq  |   ##########  Copyright (c) 2007-2024 Broadcom Inc and/or its subsidiaries
+rabbitmq  |   ######  ##
+rabbitmq  |   ##########  Licensed under the MPL 2.0. Website: https://rabbitmq.com
+rabbitmq  | 
+rabbitmq  |   Erlang:      26.2.5.14 [jit]
+rabbitmq  |   TLS Library: OpenSSL - OpenSSL 3.1.8 11 Feb 2025
+rabbitmq  |   Release series support status: see https://www.rabbitmq.com/release-information
+rabbitmq  | 
+rabbitmq  |   Doc guides:  https://www.rabbitmq.com/docs
+rabbitmq  |   Support:     https://www.rabbitmq.com/docs/contact
+rabbitmq  |   Tutorials:   https://www.rabbitmq.com/tutorials
+rabbitmq  |   Monitoring:  https://www.rabbitmq.com/docs/monitoring
+rabbitmq  |   Upgrading:   https://www.rabbitmq.com/docs/upgrade
+rabbitmq  | 
+rabbitmq  |   Logs: <stdout>
+rabbitmq  | 
+rabbitmq  |   Config file(s): /etc/rabbitmq/conf.d/10-defaults.conf
+rabbitmq  | 
+rabbitmq  |   Starting broker...2025-08-04 21:28:27.311503+00:00 [info] <0.254.0> [0m
+rabbitmq  | 2025-08-04 21:28:27.311503+00:00 [info] <0.254.0>  node           : rabbit@c1dd1fca2717[0m
+rabbitmq  | 2025-08-04 21:28:27.311503+00:00 [info] <0.254.0>  home dir       : /var/lib/rabbitmq[0m
+rabbitmq  | 2025-08-04 21:28:27.311503+00:00 [info] <0.254.0>  config file(s) : /etc/rabbitmq/conf.d/10-defaults.conf[0m
+rabbitmq  | 2025-08-04 21:28:27.311503+00:00 [info] <0.254.0>  cookie hash    : EuGbM8U176pqnsirIeOqPw==[0m
+rabbitmq  | 2025-08-04 21:28:27.311503+00:00 [info] <0.254.0>  log(s)         : <stdout>[0m
+rabbitmq  | 2025-08-04 21:28:27.311503+00:00 [info] <0.254.0>  data dir       : /var/lib/rabbitmq/mnesia/rabbit@c1dd1fca2717[0m
+rabbitmq  | 2025-08-04 21:28:27.494288+00:00 [info] <0.254.0> Running boot step pre_boot defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.494327+00:00 [info] <0.254.0> Running boot step rabbit_global_counters defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.494491+00:00 [info] <0.254.0> Running boot step rabbit_osiris_metrics defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.494558+00:00 [info] <0.254.0> Running boot step rabbit_core_metrics defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.494839+00:00 [info] <0.254.0> Running boot step rabbit_alarm defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.501573+00:00 [info] <0.329.0> Memory high watermark set to 3135 MiB (3287326720 bytes) of 7837 MiB (8218316800 bytes) total[0m
+rabbitmq  | 2025-08-04 21:28:27.503275+00:00 [info] <0.331.0> Enabling free disk space monitoring (disk free space: 1016983789568, total memory: 8218316800)[0m
+rabbitmq  | 2025-08-04 21:28:27.503311+00:00 [info] <0.331.0> Disk free limit set to 50MB[0m
+rabbitmq  | 2025-08-04 21:28:27.504101+00:00 [info] <0.254.0> Running boot step code_server_cache defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.504159+00:00 [info] <0.254.0> Running boot step file_handle_cache defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.508724+00:00 [info] <0.334.0> Limiting to approx 1048479 file handles (943629 sockets)[0m
+rabbitmq  | 2025-08-04 21:28:27.508788+00:00 [info] <0.335.0> FHC read buffering: OFF[0m
+rabbitmq  | 2025-08-04 21:28:27.508827+00:00 [info] <0.335.0> FHC write buffering: ON[0m
+rabbitmq  | 2025-08-04 21:28:27.509140+00:00 [info] <0.254.0> Running boot step worker_pool defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.509175+00:00 [info] <0.315.0> Will use 8 processes for default worker pool[0m
+rabbitmq  | 2025-08-04 21:28:27.509204+00:00 [info] <0.315.0> Starting worker pool 'worker_pool' with 8 processes in it[0m
+rabbitmq  | 2025-08-04 21:28:27.509376+00:00 [info] <0.254.0> Running boot step database defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.509552+00:00 [info] <0.254.0> Peer discovery: configured backend: rabbit_peer_discovery_classic_config[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.510336+00:00 [notice] <0.316.0> Feature flags: attempt to enable `detailed_queues_endpoint`...[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.550704+00:00 [notice] <0.316.0> Feature flags: `detailed_queues_endpoint` enabled[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.550836+00:00 [notice] <0.316.0> Feature flags: attempt to enable `quorum_queue_non_voters`...[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.591514+00:00 [notice] <0.316.0> Feature flags: `quorum_queue_non_voters` enabled[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.591597+00:00 [notice] <0.316.0> Feature flags: attempt to enable `stream_update_config_command`...[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.632118+00:00 [notice] <0.316.0> Feature flags: `stream_update_config_command` enabled[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.632216+00:00 [notice] <0.316.0> Feature flags: attempt to enable `stream_filtering`...[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.671265+00:00 [notice] <0.316.0> Feature flags: `stream_filtering` enabled[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.671317+00:00 [notice] <0.316.0> Feature flags: attempt to enable `stream_sac_coordinator_unblock_group`...[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.710589+00:00 [notice] <0.316.0> Feature flags: `stream_sac_coordinator_unblock_group` enabled[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.710650+00:00 [notice] <0.316.0> Feature flags: attempt to enable `restart_streams`...[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.750159+00:00 [notice] <0.316.0> Feature flags: `restart_streams` enabled[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.750224+00:00 [notice] <0.316.0> Feature flags: attempt to enable `message_containers`...[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.789701+00:00 [notice] <0.316.0> Feature flags: `message_containers` enabled[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.789786+00:00 [notice] <0.316.0> Feature flags: attempt to enable `message_containers_deaths_v2`...[0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.828371+00:00 [notice] <0.316.0> Feature flags: `message_containers_deaths_v2` enabled[0m
+rabbitmq  | 2025-08-04 21:28:27.828662+00:00 [info] <0.254.0> DB: virgin node -> run peer discovery[0m
+rabbitmq  | [38;5;214m2025-08-04 21:28:27.828693+00:00 [warning] <0.254.0> Classic peer discovery backend: list of nodes does not contain the local node [][0m
+rabbitmq  | [38;5;87m2025-08-04 21:28:27.835289+00:00 [notice] <0.44.0> Application mnesia exited with reason: stopped[0m
+rabbitmq  | 2025-08-04 21:28:27.892406+00:00 [info] <0.254.0> Waiting for Mnesia tables for 30000 ms, 9 retries left[0m
+rabbitmq  | 2025-08-04 21:28:27.892463+00:00 [info] <0.254.0> Successfully synced tables from a peer[0m
+rabbitmq  | 2025-08-04 21:28:27.892514+00:00 [info] <0.254.0> Waiting for Mnesia tables for 30000 ms, 9 retries left[0m
+rabbitmq  | 2025-08-04 21:28:27.892549+00:00 [info] <0.254.0> Successfully synced tables from a peer[0m
+rabbitmq  | 2025-08-04 21:28:27.894328+00:00 [info] <0.254.0> Waiting for Mnesia tables for 30000 ms, 9 retries left[0m
+rabbitmq  | 2025-08-04 21:28:27.894378+00:00 [info] <0.254.0> Successfully synced tables from a peer[0m
+rabbitmq  | 2025-08-04 21:28:27.894442+00:00 [info] <0.254.0> Running boot step tracking_metadata_store defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.894471+00:00 [info] <0.562.0> Setting up a table for connection tracking on this node: tracked_connection[0m
+rabbitmq  | 2025-08-04 21:28:27.894530+00:00 [info] <0.562.0> Setting up a table for per-vhost connection counting on this node: tracked_connection_per_vhost[0m
+rabbitmq  | 2025-08-04 21:28:27.894563+00:00 [info] <0.562.0> Setting up a table for per-user connection counting on this node: tracked_connection_per_user[0m
+rabbitmq  | 2025-08-04 21:28:27.894654+00:00 [info] <0.562.0> Setting up a table for channel tracking on this node: tracked_channel[0m
+rabbitmq  | 2025-08-04 21:28:27.894682+00:00 [info] <0.562.0> Setting up a table for channel tracking on this node: tracked_channel_per_user[0m
+rabbitmq  | 2025-08-04 21:28:27.894726+00:00 [info] <0.254.0> Running boot step networking_metadata_store defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.894770+00:00 [info] <0.254.0> Running boot step feature_flags defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.894834+00:00 [info] <0.254.0> Running boot step codec_correctness_check defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.894851+00:00 [info] <0.254.0> Running boot step external_infrastructure defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.894889+00:00 [info] <0.254.0> Running boot step rabbit_event defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.894949+00:00 [info] <0.254.0> Running boot step rabbit_registry defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.894998+00:00 [info] <0.254.0> Running boot step rabbit_auth_mechanism_amqplain defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.895045+00:00 [info] <0.254.0> Running boot step rabbit_auth_mechanism_cr_demo defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.895157+00:00 [info] <0.254.0> Running boot step rabbit_auth_mechanism_plain defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.895186+00:00 [info] <0.254.0> Running boot step rabbit_exchange_type_direct defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.895227+00:00 [info] <0.254.0> Running boot step rabbit_exchange_type_fanout defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.895252+00:00 [info] <0.254.0> Running boot step rabbit_exchange_type_headers defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.895273+00:00 [info] <0.254.0> Running boot step rabbit_exchange_type_topic defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.895295+00:00 [info] <0.254.0> Running boot step rabbit_mirror_queue_mode_all defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.895312+00:00 [info] <0.254.0> Running boot step rabbit_mirror_queue_mode_exactly defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.895341+00:00 [info] <0.254.0> Running boot step rabbit_mirror_queue_mode_nodes defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.895357+00:00 [info] <0.254.0> Running boot step rabbit_priority_queue defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.895367+00:00 [info] <0.254.0> Priority queues enabled, real BQ is rabbit_variable_queue[0m
+rabbitmq  | 2025-08-04 21:28:27.895390+00:00 [info] <0.254.0> Running boot step rabbit_queue_location_client_local defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.895406+00:00 [info] <0.254.0> Running boot step rabbit_queue_location_min_masters defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.895420+00:00 [info] <0.254.0> Running boot step rabbit_queue_location_random defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.895433+00:00 [info] <0.254.0> Running boot step kernel_ready defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.895440+00:00 [info] <0.254.0> Running boot step rabbit_sysmon_minder defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.895493+00:00 [info] <0.254.0> Running boot step rabbit_epmd_monitor defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.896080+00:00 [info] <0.570.0> epmd monitor knows us, inter-node communication (distribution) port: 25672[0m
+rabbitmq  | 2025-08-04 21:28:27.896147+00:00 [info] <0.254.0> Running boot step guid_generator defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.897153+00:00 [info] <0.254.0> Running boot step rabbit_node_monitor defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.897254+00:00 [info] <0.574.0> Starting rabbit_node_monitor (in ignore mode)[0m
+rabbitmq  | 2025-08-04 21:28:27.897295+00:00 [info] <0.254.0> Running boot step delegate_sup defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.897598+00:00 [info] <0.254.0> Running boot step rabbit_memory_monitor defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.897685+00:00 [info] <0.254.0> Running boot step rabbit_fifo_dlx_sup defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.897720+00:00 [info] <0.254.0> Running boot step core_initialized defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.897734+00:00 [info] <0.254.0> Running boot step rabbit_channel_tracking_handler defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.897822+00:00 [info] <0.254.0> Running boot step rabbit_connection_tracking_handler defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.897854+00:00 [info] <0.254.0> Running boot step rabbit_definitions_hashing defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.897874+00:00 [info] <0.254.0> Running boot step rabbit_exchange_parameters defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.910944+00:00 [info] <0.254.0> Running boot step rabbit_mirror_queue_misc defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.911138+00:00 [info] <0.254.0> Running boot step rabbit_policies defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.911253+00:00 [info] <0.254.0> Running boot step rabbit_policy defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.911272+00:00 [info] <0.254.0> Running boot step rabbit_queue_location_validator defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.911296+00:00 [info] <0.254.0> Running boot step rabbit_quorum_memory_manager defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.911344+00:00 [info] <0.254.0> Running boot step rabbit_quorum_queue defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.911384+00:00 [info] <0.254.0> Running boot step rabbit_stream_coordinator defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.911559+00:00 [info] <0.254.0> Running boot step rabbit_vhost_limit defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.911617+00:00 [info] <0.254.0> Running boot step rabbit_federation_parameters defined by app rabbitmq_federation[0m
+rabbitmq  | 2025-08-04 21:28:27.911667+00:00 [info] <0.254.0> Running boot step rabbit_federation_supervisor defined by app rabbitmq_federation[0m
+rabbitmq  | 2025-08-04 21:28:27.914911+00:00 [info] <0.254.0> Running boot step rabbit_federation_queue defined by app rabbitmq_federation[0m
+rabbitmq  | 2025-08-04 21:28:27.914985+00:00 [info] <0.254.0> Running boot step rabbit_federation_upstream_exchange defined by app rabbitmq_federation[0m
+rabbitmq  | 2025-08-04 21:28:27.915016+00:00 [info] <0.254.0> Running boot step rabbit_mgmt_reset_handler defined by app rabbitmq_management[0m
+rabbitmq  | 2025-08-04 21:28:27.915039+00:00 [info] <0.254.0> Running boot step rabbit_mgmt_db_handler defined by app rabbitmq_management_agent[0m
+rabbitmq  | 2025-08-04 21:28:27.915060+00:00 [info] <0.254.0> Management plugin: using rates mode 'basic'[0m
+rabbitmq  | 2025-08-04 21:28:27.915160+00:00 [info] <0.254.0> Running boot step recovery defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.920951+00:00 [info] <0.254.0> Running boot step empty_db_check defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.920974+00:00 [info] <0.254.0> Will seed default virtual host and user...[0m
+rabbitmq  | 2025-08-04 21:28:27.921011+00:00 [info] <0.254.0> Adding vhost '/' (description: 'Default virtual host', tags: [])[0m
+rabbitmq  | 2025-08-04 21:28:27.924318+00:00 [info] <0.634.0> Making sure data directory '/var/lib/rabbitmq/mnesia/rabbit@c1dd1fca2717/msg_stores/vhosts/628WB79CIFDYO9LJI6DKMI09L' for vhost '/' exists[0m
+rabbitmq  | 2025-08-04 21:28:27.924916+00:00 [info] <0.634.0> Setting segment_entry_count for vhost '/' with 0 queues to '2048'[0m
+rabbitmq  | 2025-08-04 21:28:27.928595+00:00 [info] <0.634.0> Starting message stores for vhost '/'[0m
+rabbitmq  | 2025-08-04 21:28:27.928655+00:00 [info] <0.643.0> Message store "628WB79CIFDYO9LJI6DKMI09L/msg_store_transient": using rabbit_msg_store_ets_index to provide index[0m
+rabbitmq  | 2025-08-04 21:28:27.929355+00:00 [info] <0.634.0> Started message store of type transient for vhost '/'[0m
+rabbitmq  | 2025-08-04 21:28:27.929426+00:00 [info] <0.647.0> Message store "628WB79CIFDYO9LJI6DKMI09L/msg_store_persistent": using rabbit_msg_store_ets_index to provide index[0m
+rabbitmq  | [38;5;214m2025-08-04 21:28:27.929748+00:00 [warning] <0.647.0> Message store "628WB79CIFDYO9LJI6DKMI09L/msg_store_persistent": rebuilding indices from scratch[0m
+rabbitmq  | 2025-08-04 21:28:27.930092+00:00 [info] <0.634.0> Started message store of type persistent for vhost '/'[0m
+rabbitmq  | 2025-08-04 21:28:27.930157+00:00 [info] <0.634.0> Recovering 0 queues of type rabbit_classic_queue took 5ms[0m
+rabbitmq  | 2025-08-04 21:28:27.930180+00:00 [info] <0.634.0> Recovering 0 queues of type rabbit_quorum_queue took 0ms[0m
+rabbitmq  | 2025-08-04 21:28:27.930206+00:00 [info] <0.634.0> Recovering 0 queues of type rabbit_stream_queue took 0ms[0m
+rabbitmq  | 2025-08-04 21:28:27.931107+00:00 [info] <0.254.0> Created user 'guest'[0m
+rabbitmq  | 2025-08-04 21:28:27.931534+00:00 [info] <0.254.0> Successfully set user tags for user 'guest' to [administrator][0m
+rabbitmq  | 2025-08-04 21:28:27.931964+00:00 [info] <0.254.0> Successfully set permissions for user 'guest' in virtual host '/' to '.*', '.*', '.*'[0m
+rabbitmq  | 2025-08-04 21:28:27.931992+00:00 [info] <0.254.0> Running boot step rabbit_observer_cli defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.932031+00:00 [info] <0.254.0> Running boot step rabbit_looking_glass defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.932053+00:00 [info] <0.254.0> Running boot step rabbit_core_metrics_gc defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.932106+00:00 [info] <0.254.0> Running boot step background_gc defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.932188+00:00 [info] <0.254.0> Running boot step routing_ready defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.932211+00:00 [info] <0.254.0> Running boot step pre_flight defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.932230+00:00 [info] <0.254.0> Running boot step notify_cluster defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.932266+00:00 [info] <0.254.0> Running boot step networking defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.932281+00:00 [info] <0.254.0> Running boot step rabbit_quorum_queue_periodic_membership_reconciliation defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.932338+00:00 [info] <0.254.0> Running boot step definition_import_worker_pool defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.932361+00:00 [info] <0.315.0> Starting worker pool 'definition_import_pool' with 8 processes in it[0m
+rabbitmq  | 2025-08-04 21:28:27.932645+00:00 [info] <0.254.0> Running boot step cluster_name defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.932692+00:00 [info] <0.254.0> Initialising internal cluster ID to 'rabbitmq-cluster-id-8Wp4IH24G5p0uIeSNQUTyg'[0m
+rabbitmq  | 2025-08-04 21:28:27.933189+00:00 [info] <0.254.0> Running boot step virtual_host_reconciliation defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.933257+00:00 [info] <0.254.0> Running boot step direct_client defined by app rabbit[0m
+rabbitmq  | 2025-08-04 21:28:27.933291+00:00 [info] <0.254.0> Running boot step rabbit_federation_exchange defined by app rabbitmq_federation[0m
+rabbitmq  | 2025-08-04 21:28:27.933386+00:00 [info] <0.254.0> Running boot step rabbit_management_load_definitions defined by app rabbitmq_management[0m
+rabbitmq  | 2025-08-04 21:28:27.933457+00:00 [info] <0.688.0> Resetting node maintenance status[0m
+rabbitmq  | [38;5;214m2025-08-04 21:28:28.031411+00:00 [warning] <0.717.0> Deprecated features: `management_metrics_collection`: Feature `management_metrics_collection` is deprecated.[0m
+rabbitmq  | [38;5;214m2025-08-04 21:28:28.031411+00:00 [warning] <0.717.0> By default, this feature can still be used for now.[0m
+rabbitmq  | [38;5;214m2025-08-04 21:28:28.031411+00:00 [warning] <0.717.0> Its use will not be permitted by default in a future minor RabbitMQ version and the feature will be removed from a future major RabbitMQ version; actual versions to be determined.[0m
+rabbitmq  | [38;5;214m2025-08-04 21:28:28.031411+00:00 [warning] <0.717.0> To continue using this feature when it is not permitted by default, set the following parameter in your configuration:[0m
+rabbitmq  | [38;5;214m2025-08-04 21:28:28.031411+00:00 [warning] <0.717.0>     "deprecated_features.permit.management_metrics_collection = true"[0m
+rabbitmq  | [38;5;214m2025-08-04 21:28:28.031411+00:00 [warning] <0.717.0> To test RabbitMQ as if the feature was removed, set this in your configuration:[0m
+rabbitmq  | [38;5;214m2025-08-04 21:28:28.031411+00:00 [warning] <0.717.0>     "deprecated_features.permit.management_metrics_collection = false"[0m
+rabbitmq  | 2025-08-04 21:28:29.720263+00:00 [info] <0.754.0> Management plugin: HTTP (non-TLS) listener started on port 15672[0m
+rabbitmq  | 2025-08-04 21:28:29.720351+00:00 [info] <0.784.0> Statistics database started.[0m
+rabbitmq  | 2025-08-04 21:28:29.720388+00:00 [info] <0.783.0> Starting worker pool 'management_worker_pool' with 3 processes in it[0m
+rabbitmq  | 2025-08-04 21:28:29.723985+00:00 [info] <0.802.0> Prometheus metrics: HTTP (non-TLS) listener started on port 15692[0m
+rabbitmq  | 2025-08-04 21:28:29.724034+00:00 [info] <0.688.0> Ready to start client connection listeners[0m
+rabbitmq  | 2025-08-04 21:28:29.724869+00:00 [info] <0.846.0> started TCP listener on [::]:5672[0m
+rabbitmq  |  completed with 5 plugins.
+rabbitmq  | 2025-08-04 21:28:29.791715+00:00 [info] <0.688.0> Server startup complete; 5 plugins started.[0m
+rabbitmq  | 2025-08-04 21:28:29.791715+00:00 [info] <0.688.0>  * rabbitmq_prometheus[0m
+rabbitmq  | 2025-08-04 21:28:29.791715+00:00 [info] <0.688.0>  * rabbitmq_federation[0m
+rabbitmq  | 2025-08-04 21:28:29.791715+00:00 [info] <0.688.0>  * rabbitmq_management[0m
+rabbitmq  | 2025-08-04 21:28:29.791715+00:00 [info] <0.688.0>  * rabbitmq_management_agent[0m
+rabbitmq  | 2025-08-04 21:28:29.791715+00:00 [info] <0.688.0>  * rabbitmq_web_dispatch[0m
+rabbitmq  | 2025-08-04 21:28:29.945772+00:00 [info] <0.9.0> Time to start RabbitMQ: 4708 ms[0m
