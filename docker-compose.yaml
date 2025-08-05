@@ -13,8 +13,7 @@ services:
       - .docker/mysql:/var/lib/mysql
   
   migrate:
-    image: mysql:5.7
-    platform: linux/amd64
+    image: mysql:8
     container_name: migrate
     restart: "no"
     depends_on:
